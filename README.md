@@ -24,7 +24,7 @@ npm test          # ejecutar pruebas
 \```
 
 ## Contribuir
-
+## PROBANDO
 Lee nuestras reglas del repo antes de contribuir:
 
 - Trabajamos con `main` (estable) y `dev` (integración).
